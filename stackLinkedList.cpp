@@ -71,4 +71,5 @@ public:
 
 int main()
 {
+  Stack stact;
 }
