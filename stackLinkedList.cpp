@@ -47,7 +47,7 @@ public:
 
   void peek()
   {
-    if (top == NULL)
+    if (isEmpty())
     {
       cout << "List is Empty." << endl;
     }
